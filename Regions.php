@@ -1,6 +1,8 @@
 <?php
 namespace FS\Directory\Model;
-//this is added in dev
+
+//modified in main
+
 use Magento\Framework\Option\ArrayInterface;
 
 class Regions implements ArrayInterface
